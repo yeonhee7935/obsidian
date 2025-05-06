@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "칭찬 스티커 - 팡팡팡!.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -167,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 301.5
   },
   "left-ribbon": {
     "hiddenItems": {
